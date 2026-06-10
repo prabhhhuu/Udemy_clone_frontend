@@ -22,11 +22,11 @@ A responsive Udemy website clone built using HTML and CSS. This project replicat
 
 ## Live Demo
 
-(https://prabhhhuu.github.io/Udemy_clone_frontend/)
+https://prabhhhuu.github.io/Udemy_clone_frontend/
 
 ## GitHub Repository
 
-[Add your repository link here]
+https://github.com/prabhhhuu/Udemy_clone_frontend
 
 ## Screenshots
 
